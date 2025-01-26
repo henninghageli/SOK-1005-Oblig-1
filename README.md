@@ -7,8 +7,8 @@ Assignment 1 in the course SOK-1005.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/temperature-plotter.git
-    cd temperature-plotter
+    git clone https://github.com/henninghageli/SOK-1005-Oblig-1.git
+    cd SOK-1005-Oblig-1
     ```
 
 2. Create a virtual environment:
